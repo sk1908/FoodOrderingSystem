@@ -1,3 +1,3 @@
 # Food-ordering-System-in-CPP
 
-this runs on local terminal 
+This is a food ordering system which runs solely in the terminal
