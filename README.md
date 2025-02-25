@@ -1,3 +1,4 @@
+
 # 📌 Food Ordering System
 A Food Ordering System that allows users to browse food items, place orders, and manage their orders seamlessly. This web-based platform is designed for restaurants and customers, offering an efficient way to handle online food delivery and takeaway services.
 
